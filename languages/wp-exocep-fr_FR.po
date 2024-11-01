@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-exocep\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.2.3\n"
+
+msgid "Exocep integration plugin."
+msgstr "Module d'intégration pour Exocep."
+
+msgid "Configure the connection settings to Exocep."
+msgstr "Configurer les paramètres de connexion à Exocep."
+
+msgid "Settings saved."
+msgstr "Options enregistrées."
+
+msgid "API key"
+msgstr "Clé d’API"
+
+msgid "Production"
+msgstr "Production"
+
+msgid "mandatory"
+msgstr "nécessaire"
+
+msgid "Fill in your email"
+msgstr "Renseignez votre email"
+
+msgid "What are your interests in our events?"
+msgstr "Quels sont vos centres d'intérêts parmi nos événements ?"
+
+msgid "Follow our news"
+msgstr "Suivre notre actualité"
+
+msgid "By indicating your email address above, you agree to receive our offers electronically. You can unsubscribe at any time through the unsubscribe links."
+msgstr "En indiquant votre adresse mail ci-dessus, vous consentez à recevoir nos offres par voie électronique. Vous pouvez à tout moment vous désinscrire à travers les liens de désinscription."
+
+msgid "Wrong API Key"
+msgstr "Mauvaise clé API"
+
+msgid "Your request is validated. We will keep you informed about our upcoming events."
+msgstr "Votre demande est validée. Nous vous tiendrons informé(e) de nos prochains événements."
+
+msgid "An error has occurred. Your request did not succeed."
+msgstr "Une erreur s'est produite. Votre demande n'a pas abouti."
